@@ -1,8 +1,23 @@
 package com.charionnerotairo;
+class One
+{
+    int x = 2121;
+}
 
-public class Main {
+class Two extends One
+{
+    int x = 1212;
 
-    public static void main(String[] args) {
+    {
+        System.out.println(x);
+    }
+}
 
+public class Main
+{
+    public static void main(String[] args)
+    {
+        Two two = new Two();
+        System.out.println();
     }
 }
