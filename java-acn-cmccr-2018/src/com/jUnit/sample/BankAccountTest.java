@@ -7,6 +7,9 @@ public class BankAccountTest {
     BankAccount account;
     private static int count;
 
+    //afterclass and beforeclass need static keywords to their method
+    //in case red, click alt+enter to import jUnit4
+    //else check project structure>modules>change right side of jUnit to "Compiler"
 
     @org.junit.BeforeClass
     public static void sample() {

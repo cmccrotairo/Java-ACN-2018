@@ -22,7 +22,6 @@ public class BankAccountTestParameterized {
         this.branch = branch;
     }
 
-
     @org.junit.Before
     public void setup(){
         account = new BankAccount("Tim", "Buchalka", 1000.00, BankAccount.CHECKING);

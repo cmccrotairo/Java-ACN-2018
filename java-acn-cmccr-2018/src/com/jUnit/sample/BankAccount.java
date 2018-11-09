@@ -1,6 +1,6 @@
 package com.jUnit.sample;
 
-public class BankAccount {
+public class BankAccount { //alt+enter>create test
     public String firstName;
     public String lastName;
     private double balance;
