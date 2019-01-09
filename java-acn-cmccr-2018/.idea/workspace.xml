@@ -2,15 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a88d86d9-1dab-45e7-94dd-89987ece99bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sqlite_jdbc_3_23_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/databases/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/databases/music/Album.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/databases/music/Artist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/databases/music/Datasource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/databases/music/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/databases/music/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/charionnerotairo/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/databases/music/SongArtist.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-acn-cmccr-2018.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-acn-cmccr-2018.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music.db" beforeDir="false" afterPath="$PROJECT_DIR$/music.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-acn-cmccr-2018/com/databases/music/Datasource.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-acn-cmccr-2018/com/databases/music/Datasource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-acn-cmccr-2018/com/databases/music/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-acn-cmccr-2018/com/databases/music/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-acn-cmccr-2018/com/jUnit/challenge/Utilities.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-acn-cmccr-2018/com/jUnit/challenge/Utilities.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codingassessments/activity01/activity03/GroceryBill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingassessments/activity01/activity03/GroceryBill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/databases/music/Datasource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/databases/music/Datasource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/databases/music/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/databases/music/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jUnit/challenge/Utilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jUnit/challenge/Utilities.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -90,105 +92,133 @@
     <session id="-1697993435">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.1496" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.66" value="1" />
           <entry key="project.open.time.68" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="11309" />
+          <entry key="java" value="11634" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="11309" />
+          <entry key="JAVA" value="11634" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="8" />
+          <entry key="class" value="1" />
+          <entry key="java" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="8" />
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="37" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/regex/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="41" column="54" selection-start-line="41" selection-start-column="54" selection-end-line="41" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/regex/challenge/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1071">
-              <caret line="63" column="31" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/databases/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="68" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/databases/music/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/codingassessments/activity01/activity03/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="78" selection-start-line="12" selection-start-column="78" selection-end-line="12" selection-end-column="78" />
+            <state relative-caret-position="340">
+              <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/databases/music/Datasource.java">
+        <entry file="file://$PROJECT_DIR$/src/com/codingassessments/activity01/activity03/GroceryBill.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1309">
-              <caret line="77" column="48" selection-start-line="77" selection-start-column="48" selection-end-line="77" selection-end-column="48" />
+            <state relative-caret-position="544">
+              <caret line="32" column="39" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/databases/music/Artist.java">
+        <entry file="file://$PROJECT_DIR$/src/com/codingassessments/activity01/activity03/RegularBill.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            <state relative-caret-position="289">
+              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/databases/music/Album.java">
+        <entry file="file://$PROJECT_DIR$/src/com/codingassessments/activity01/activity03/DiscountedBill.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/codingassessments/activity01/activity04sample/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/databases/music/Song.java">
+        <entry file="file://$PROJECT_DIR$/src/com/codingassessments/activity01/activity04sample/Idol.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/codingassessments/activity01/NumberUtility.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/codingassessments/activity01/activity02/Printer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/codingassessments/activity01/activity02/ConsolePrinter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/codingassessments/activity01/activity02/BoxPrinter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -200,8 +230,18 @@
       <list>
         <option value="FxmlFile" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>open</find>
+      <find>datasource</find>
+      <find>COLUMN_ARTIST_NAME</find>
+      <find>QUERY_VIEW_SONG_INFO_PREP</find>
+      <find>querys</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -209,11 +249,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/exercises3/NumberInWord.java" />
-        <option value="$PROJECT_DIR$/src/com/exercises3/NumberOfDaysInMonth.java" />
-        <option value="$PROJECT_DIR$/src/com/exercises3/SumOddRange.java" />
-        <option value="$PROJECT_DIR$/src/com/exercises3/NumberPalindrome.java" />
-        <option value="$PROJECT_DIR$/src/com/exercises3/FirstAndLastDigitSum.java" />
         <option value="$PROJECT_DIR$/src/com/exercises3/EvenDigitSum.java" />
         <option value="$PROJECT_DIR$/src/com/exercises3/SharedDigit.java" />
         <option value="$PROJECT_DIR$/src/com/exercises3/LastDigitChecker.java" />
@@ -244,9 +279,7 @@
         <option value="$PROJECT_DIR$/src/com/codingassessments/activity01/activity04sample/PlaymateComparator.java" />
         <option value="$PROJECT_DIR$/src/com/codingassessments/activity01/activity03/SweetnessLevelComparator.java" />
         <option value="$PROJECT_DIR$/src/com/codingassessments/activity01/activity04/SweetnessLevelComparator.java" />
-        <option value="$PROJECT_DIR$/src/com/codingassessments/activity01/activity03/DiscountedBill.java" />
         <option value="$PROJECT_DIR$/src/com/jUnit/challenge/BankAccountTest.java" />
-        <option value="$PROJECT_DIR$/src/com/jUnit/challenge/Utilities.java" />
         <option value="$PROJECT_DIR$/src/com/debug/sample0/StringUtilities.java" />
         <option value="$PROJECT_DIR$/src/com/debug/sample1/StringUtilities.java" />
         <option value="$PROJECT_DIR$/src/com/jUnit/sample/BankAccount.java" />
@@ -258,15 +291,28 @@
         <option value="$PROJECT_DIR$/src/com/databases/music/Artist.java" />
         <option value="$PROJECT_DIR$/src/com/databases/music/Album.java" />
         <option value="$PROJECT_DIR$/src/com/databases/music/Song.java" />
-        <option value="$PROJECT_DIR$/src/com/databases/music/Datasource.java" />
+        <option value="$PROJECT_DIR$/src/com/databases/music/SongArtist.java" />
         <option value="$PROJECT_DIR$/src/com/databases/music/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/databases/music/Datasource.java" />
+        <option value="$PROJECT_DIR$/src/com/charionnerotairo/Main2.java" />
+        <option value="$PROJECT_DIR$/src/com/jUnit/challenge/UtilitiesTest2.java" />
+        <option value="$PROJECT_DIR$/src/com/jUnit/challenge/Utilities.java" />
+        <option value="$PROJECT_DIR$/src/com/jUnit/challenge/UtilitiesTestParameterized.java" />
+        <option value="$PROJECT_DIR$/src/com/codingassessments/activity01/activity03/GroceryBill.java" />
+        <option value="$PROJECT_DIR$/src/com/codingassessments/activity01/activity03/DiscountedBill.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1940" />
-    <option name="height" value="1100" />
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -278,8 +324,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -290,6 +334,11 @@
             <path>
               <item name="java-acn-cmccr-2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-acn-cmccr-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-acn-cmccr-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-acn-cmccr-2018" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -303,34 +352,63 @@
               <item name="java-acn-cmccr-2018" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="databases" type="462c0819:PsiDirectoryNode" />
+              <item name="codingassessments" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-acn-cmccr-2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-acn-cmccr-2018" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="databases" type="462c0819:PsiDirectoryNode" />
-              <item name="music" type="462c0819:PsiDirectoryNode" />
+              <item name="codingassessments" type="462c0819:PsiDirectoryNode" />
+              <item name="activity01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-acn-cmccr-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-acn-cmccr-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="codingassessments" type="462c0819:PsiDirectoryNode" />
+              <item name="activity01" type="462c0819:PsiDirectoryNode" />
+              <item name="activity02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-acn-cmccr-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-acn-cmccr-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="codingassessments" type="462c0819:PsiDirectoryNode" />
+              <item name="activity01" type="462c0819:PsiDirectoryNode" />
+              <item name="activity03" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542116028742" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547040464002" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.jUnit.challenge" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.regex" />
     </key>
@@ -354,33 +432,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jUnit.challenge.Main" />
-      <module name="java-acn-cmccr-2018" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jUnit.challenge.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.regex.Main" />
-      <module name="java-acn-cmccr-2018" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.regex.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.UtilitiesTest.removePairs">
     <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.regex.challenge.Main" />
       <module name="java-acn-cmccr-2018" />
@@ -420,20 +472,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.charionnerotairo.Main2" />
+      <module name="java-acn-cmccr-2018" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.charionnerotairo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UtilitiesTest.removePairs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-acn-cmccr-2018" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jUnit.challenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jUnit.challenge" />
+      <option name="MAIN_CLASS_NAME" value="com.jUnit.challenge.UtilitiesTest" />
+      <option name="METHOD_NAME" value="removePairs" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Main (2)" />
-      <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main (5)" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main2" />
+      <item itemvalue="JUnit.UtilitiesTest.removePairs" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.UtilitiesTest.removePairs" />
+        <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -450,11 +531,15 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="UtilitiesTest_removePairs - 2018.12.14 at 12h 32m 07s.xml">
+      <configuration name="UtilitiesTest.removePairs" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16577825" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3938731" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -463,8 +548,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34127843" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3402626" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -479,94 +564,17 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32995737" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/codingassessments/activity01/activity02/ConsolePrinter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingassessments/activity01/activity02/Printer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javacollections/binarysearch/Theatre.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1139">
-          <caret line="67" selection-start-line="67" selection-end-line="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingassessments/activity01/activity04sample/Idol.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingassessments/activity01/activity04sample/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/variables/ParsingValuesFromString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/variables/MoreUnicode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/variables/Strings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/variables/Operators.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/OOP/inheritancechallenge/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/OOP/inheritancechallenge/Vehicle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingassessments/activity01/activity04sample/PlaymateComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -585,71 +593,101 @@
     <entry file="file://$PROJECT_DIR$/src/com/codingassessments/activity01/activity04/SweetnessLevelComparator.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingassessments/activity01/activity03/ShoppingClerk.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingassessments/activity01/activity03/Item.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingassessments/activity01/activity03/Main.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingassessments/activity01/activity03/RegularBill.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingassessments/activity01/activity03/GroceryBill.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jUnit.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/codingassessments/activity01/activity03/DiscountedBill.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jUnit/challenge/BankAccountTestParameterized.java" />
     <entry file="file://$PROJECT_DIR$/src/com/jUnit/challenge/BankAccount.java" />
     <entry file="file://$PROJECT_DIR$/src/com/jUnit/challenge/BankAccountTest.java" />
     <entry file="file://$PROJECT_DIR$/src/com/jUnit/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/jUnit/challenge/UtilitiesTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/jUnit/challenge/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/jUnit/challenge/UtilitiesTestParameterized.java" />
     <entry file="file://$PROJECT_DIR$/src/com/jUnit/sample/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/com/debug/sample0/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/com/debug/sample0/StringUtilities.java" />
     <entry file="file://$PROJECT_DIR$/src/com/debug/sample1/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/jUnit/challenge/Utilities.java" />
     <entry file="file://$PROJECT_DIR$/src/com/debug/sample1/StringUtilities.java" />
     <entry file="file://$PROJECT_DIR$/src/com/jUnit/sample/BankAccount.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/jUnit/sample/BankAccountTestParameterized.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/jUnit/sample/BankAccountTest.java" />
     <entry file="file://$PROJECT_DIR$/src/com/databases/music/psvm.java" />
     <entry file="file://$PROJECT_DIR$/src/com/regex/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
+        <state relative-caret-position="370">
           <caret line="41" column="54" selection-start-line="41" selection-start-column="54" selection-end-line="41" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/regex/challenge/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
+        <state relative-caret-position="217">
           <caret line="63" column="31" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/databases/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="68" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
+        <state relative-caret-position="676">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../sqlite/sqlite-jdbc-3.23.1.jar!/org/sqlite/core/DB.class" />
+    <entry file="file://$PROJECT_DIR$/src/com/databases/music/SongArtist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/databases/music/Datasource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1309">
-          <caret line="77" column="48" selection-start-line="77" selection-start-column="48" selection-end-line="77" selection-end-column="48" />
+        <state relative-caret-position="1428">
+          <caret line="84" column="76" selection-start-line="84" selection-start-column="76" selection-end-line="84" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/charionnerotairo/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jUnit/challenge/UtilitiesTest2.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/jUnit/challenge/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jUnit/challenge/Utilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jUnit/challenge/UtilitiesTestParameterized.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="43" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jUnit/sample/BankAccountTestParameterized.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jUnit/sample/BankAccountTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/databases/music/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -674,10 +712,101 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/databases/music/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jUnit/challenge/UtilitiesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="78" selection-start-line="12" selection-start-column="78" selection-end-line="12" selection-end-column="78" />
+        <state relative-caret-position="85">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingassessments/activity01/activity03/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" selection-start-line="2" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingassessments/activity01/activity03/ShoppingClerk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingassessments/activity01/activity04sample/PlaymateComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingassessments/activity01/activity04sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingassessments/activity01/activity04sample/Idol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingassessments/activity01/NumberUtility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingassessments/activity01/activity02/Printer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingassessments/activity01/activity02/BoxPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingassessments/activity01/activity02/ConsolePrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingassessments/activity01/activity03/GroceryBill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingassessments/activity01/activity03/RegularBill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingassessments/activity01/activity03/DiscountedBill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingassessments/activity01/activity03/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
         </state>
       </provider>
     </entry>

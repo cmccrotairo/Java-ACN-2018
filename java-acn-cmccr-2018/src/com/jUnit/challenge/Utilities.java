@@ -17,6 +17,7 @@ public class Utilities {
         }
 
         return result;
+
     }
 
     //"ABBCDEEF" -> "ABCDEF"

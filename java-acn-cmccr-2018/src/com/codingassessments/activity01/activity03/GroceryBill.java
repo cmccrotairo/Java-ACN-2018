@@ -8,7 +8,7 @@ public abstract class GroceryBill {
         this.clerk = clerk;
     }
 
-    public void addItem(Item item){
+    public void addItem(Item item) {
         for (int i=0; i<=200; i++){
             if(this.item[i]==null) {
                 this.item[i] = item;
